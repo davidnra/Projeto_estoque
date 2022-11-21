@@ -1,0 +1,22 @@
+{
+    "name": "patricia-gomes/controle_de_estoque",
+    "authors": [
+        {
+            "name": "Patricia Gomes",
+            "email": "patriciagomesro33@gmail.com"
+        }
+    ],
+    "keywords":[
+        "php",
+        "controle de estoque php",
+        "bootstrap"
+    ],
+    "require": {
+        "php": ">=8.0.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\" : "App/"
+        }
+    }
+}
